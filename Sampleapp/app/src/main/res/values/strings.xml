@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Swrajit\'s App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello World!</string>
+
+    <!--button -->
+    <string name="enter_name">Enter name</string>
+
+    <string name="hint">Enter your name and click change name</string>
+    <string name="hint_retry">Please try again, enter at least one character, and no digits!</string>
+</resources>
