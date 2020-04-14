@@ -11,7 +11,6 @@ public class SecondActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_second);
 
-        WebView myWebView = (WebView)findViewById(R.id.webview);
-        myWebView.loadUrl("https://swrajitpaul.github.io/myportfolio/");
+
     }
 }

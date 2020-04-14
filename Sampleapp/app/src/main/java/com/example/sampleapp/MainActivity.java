@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
                         textView.setText("My Name is " + textInputEditText.getText());
                         getSupportActionBar().setTitle(textInputEditText.getText());
                         button.setVisibility(View.GONE);
-                        textInputEditText.setVisibility(View.GONE);
+                        //textInputEditText.setVisibility(View.GONE);
                     }
                 }
             }
